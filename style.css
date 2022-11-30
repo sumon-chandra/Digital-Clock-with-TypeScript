@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  background-color: #2f2f2f;
+  color: #e3e3e3;
+}
+.title {
+  font-size: 4rem;
+  background-color: #484848;
+  font-weight: 600;
+  padding: 10px 0;
+}
+.clock-container {
+  padding: 8rem 0;
+}
+.clock {
+  text-align: center;
+  font-size: 8rem;
+}
+.date {
+  text-align: center;
+}
