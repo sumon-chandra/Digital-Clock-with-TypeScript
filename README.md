@@ -1,1 +1,1 @@
-# Digital-Clock-with-Typwscript
+# Digital Clock with TypeScript
