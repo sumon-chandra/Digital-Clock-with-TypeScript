@@ -18,5 +18,5 @@ This is my first TypeScript project and here is the link....
 
 [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/SumonChandraForever)
 
-[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://facebook.com/SumonChandraForever)
+[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumon-chandra)
 
